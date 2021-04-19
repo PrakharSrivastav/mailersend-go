@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/mailersend/mailersend-go"
+	"github.com/PrakharSrivastav/mailersend-go"
 	"github.com/stretchr/testify/assert"
 )
 
